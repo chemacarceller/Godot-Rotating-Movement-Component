@@ -1,6 +1,6 @@
 # Godot-Rotating-Movement_Component
 
-This is the development of a basic rotating movement component designed to be attached to a Node3D
+This is the development of a basic rotating movement component written in C++ designed to be attached to a Node3D
 
 This component has been tested in https://jocarpe.itch.io/third-person-character-demo
 
@@ -16,7 +16,7 @@ The same demo is available for First Person Character in https://jocarpe.itch.io
 
 ============================================================================
 
-Este es el desarrollo de un componente básico de movimiento giratorio diseñado para conectarse a un Node3D.
+Este es el desarrollo de un componente básico de movimiento giratorio escrito en C++ diseñado para conectarse a un Node3D.
 
 Este componente se ha probado en https://jocarpe.itch.io/third-person-character-demo
 
