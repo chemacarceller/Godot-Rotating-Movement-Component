@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class name="RotatingMovementComponent" inherits="Node" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/godotengine/godot/master/doc/class.xsd">
+	<brief_description>
+	</brief_description>
+	<description>
+	</description>
+	<tutorials>
+	</tutorials>
+	<members>
+		<member name="_isEnabled" type="bool" setter="set_enabled" getter="is_enabled" default="true">
+		Indicates if the component is enabled or not
+		</member>
+		<member name="_rotatingVector" type="Vector3" setter="set_rotatingVector" getter="get_rotatingVector" default="Vector3(0, 1, 0)">
+		Rotating Vector
+		</member>
+		<member name="_speed" type="float" setter="set_speed" getter="get_speed" default="0.0">
+		Speed in RPM (Rotations Per Minute)
+		</member>
+	</members>
+</class>
